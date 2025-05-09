@@ -3,8 +3,8 @@ import { Config, Environments, PlanId } from './types/types';
 const coreConfig: Omit<Config, 'environments'> = {
   name: 'my-app',
   github: {
-    organization: 'my-github-organization',
-    repository: 'my-github-repository',
+    organization: 'Eduardo735',
+    repository: 'volca',
   },
   domain: 'internautacapital.com',
   fromEmail: 'contacto@internautacapital.com',
