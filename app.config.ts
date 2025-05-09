@@ -6,10 +6,10 @@ const coreConfig: Omit<Config, 'environments'> = {
     organization: 'my-github-organization',
     repository: 'my-github-repository',
   },
-  domain: 'my-domain.com',
-  fromEmail: 'admin@mail.my-domain.com',
+  domain: 'internautacapital.com',
+  fromEmail: 'contacto@internautacapital.com',
   aws: {
-    account: '012345678901',
+    account: '517681923552',
     region: 'us-east-1',
   },
   // Add your measurement id from google analytics to collect analytics data from your landing page
